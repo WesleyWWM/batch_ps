@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 :: Set the folder path
-set "folderPath=C:\Users\WesleyWEN\Downloads"
+set "folderPath=#file path#"
 
 :: List of extensions to delete
 set "extensions=pdf xlsx"
